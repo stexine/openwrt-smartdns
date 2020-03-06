@@ -1,0 +1,2 @@
+# openwrt-smartdns
+smartdns src
